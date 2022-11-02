@@ -1,12 +1,13 @@
-## Hi, I'm Alejandro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi, I'm Adrià Vallès <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## About me
 ```javascript
-const alejandro = {
+const AdriaValles = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Node, NextJS, Express, MongoDB],
-  challenge: "I am currently studying a Master's Degree in Software Development 
+  challenge: 
+  "🔭 I’m currently working studying a Master's Degree in Software Development 
              at Assembler Institute of Technology."
 }
 ```
