@@ -10,7 +10,7 @@ const alejandro = {
              at Assembler Institute of Technology."
 }
 ```
-📫 How to reach me: **alejandroaperez1994g@gmail.com**
+📫 How to reach me: **adriavallesbaradad@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -20,11 +20,10 @@ const alejandro = {
 </p>
 
 
-![Adrià Vallès's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriavallesbaradadg&hide=contribs,prs)
+![Adrià Vallès's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriavallesbaradad&hide=contribs,prs)
 
 
 <!--
-**alejandroaperez1994g/alejandroaperez1994g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
