@@ -20,7 +20,7 @@ const alejandro = {
 </p>
 
 
-![Adrià Vallès's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriAparicioPons=contribs,prs)
+![Adrià Vallès's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriAparicioPons=contribs,prs)
 
 
 <!--
